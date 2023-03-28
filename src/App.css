@@ -1,0 +1,23 @@
+*{
+  background-color: black;
+  color: white;
+}
+.App{
+  text-align: center;
+  padding-top: 100px;
+  
+}
+.img{
+  height: 300px;
+  width: 250px;
+  margin-bottom: 20px;
+}
+.btn{
+  background-color: orange;
+  color: white;
+  border-radius: 10px;
+  width: 100px;
+  height: 40px;
+  font-weight: bold;
+  margin-top: 20px;
+}
